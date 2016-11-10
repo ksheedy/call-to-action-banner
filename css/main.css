@@ -1,0 +1,33 @@
+html {
+  box-sizing: border-box;
+  /* font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif; */
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+a {
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 1.125rem;
+  background-color: #333;
+  color: #fff;
+  border-width: 3px;
+  border-color: currentColor;
+  border-style: solid;
+}
+
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
