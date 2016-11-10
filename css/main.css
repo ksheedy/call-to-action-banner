@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 *, *::before, *::after {
@@ -36,6 +36,7 @@ p {
 
 .banner-content {
   position: absolute;
+  top: 2rem;
   bottom: 2rem;
   left: 50%;
   transform: translateX(-50%);
