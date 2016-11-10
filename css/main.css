@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
 }
 
 *, *::before, *::after {
@@ -40,6 +40,10 @@ p {
   bottom: 2rem;
   left: 50%;
   transform: translateX(-50%);
+  width: 100%;
+}
+
+.circle-div {
   width: 100%;
 }
 
