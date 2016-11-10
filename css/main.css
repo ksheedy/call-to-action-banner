@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 *, *::before, *::after {
@@ -39,17 +39,17 @@ p {
   bottom: 2rem;
   left: 50%;
   transform: translateX(-50%);
-  width: 100%
+  width: 100%;
 }
 
 .circle {
   float: left;
-  width: 33%
+  width: 33%;
 }
 
 .banner-text {
   float: right;
-  width: 50%
+  width: 50%;
 }
 
 a {
