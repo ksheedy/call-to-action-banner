@@ -36,17 +36,20 @@ p {
 
 .banner-content {
   position: absolute;
-  bottom: 0;
+  bottom: 2rem;
   left: 50%;
   transform: translateX(-50%);
+  width: 100%
 }
 
 .circle {
   float: left;
+  width: 33%
 }
 
 .banner-text {
   float: right;
+  width: 50%
 }
 
 a {
